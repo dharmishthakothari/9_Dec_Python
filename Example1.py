@@ -1,0 +1,5 @@
+print("Hello World!!!",end="$")
+print("Hello World!!!",end="$")
+print("Hello World!!!")
+print("Hello World!!!")
+print("Hello World!!!","Welcome Python class ",sep="*")
