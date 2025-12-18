@@ -139,6 +139,62 @@ num%2==0
 51 - 70 seniur
 70 super senior
 
+18th Dec
+
+if 
+if else
+if elif
+nested if		p- if within if
+
+--->Control statement
+    break   - to break loop based on condition
+    continue  - skip current iteration and execute the next iteration
+	pass  - pass/nothning/placeholder
+
+match case 
+			when you have no of alternatives/conditions 
+	
+
+Lab task : Enter Month name from user and display days accoudingly.
+INPUT - Enter month : July
+31 days
+
+INPUT - Enter month : August
+31 days
+
+INPUT - Enter month : February
+28/29 days
+
+LOOPS : repeative task 
+
+for	- when you no of iteration in advanced 
+	for var in range(start,end,step):
+		block of code 
+
+range(start,end,step)
+end - compusary 
+start - by default 0 
+step - by default increment by 1 (increment/decrement)
+
+for lab taks : Ask user about the start ,end and increment value and print accourdingly
+start : 100
+end : 500
+increment : 5
+
+output 
+100
+105
+110
+115
+....
 
 
-		
+
+
+
+
+
+
+while
+  
+
