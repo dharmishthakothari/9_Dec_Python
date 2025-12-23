@@ -241,6 +241,94 @@ break
 continue 
 pass
 
+23ed Dec
+ Loops , conditional stmt , menu drivwen program , constrol statement 
+
+prime number -- 
+
+input - 13
+
+
+1 & 13 - prime
+2-12 - divide - not prime
+
+13%2 ==0 ?
+13%3 ==0 ?
+13%4b ==0 ?
+
+
+input - 8
+1 & 8 - prime
+2-7 - not prime 
+
+find prime numbers from 1- 100 
+
+1- prime    (1)
+2 - prime  (1)
+3 - prime   (2)
+4 - not prime  (3)
+5 - prime  (4)
+6 - not prime
+7 - prime
+8 - not prime
+9 - not prime
+10 - not prime
+11 -prime
+...
+100
+
+Lab task : Count total_no of prime and not prime numbers in 1-100
+
+
+Pattern programs :
+
+input =4 
+*
+*  *
+*  *  *
+*  *  *  *
+
+Pattern 2 
+
+* * * * *  1st row col =5
+* * * *
+* * *
+* * 
+*
+
+
+1 row 
+
+
+Lab task : 
+1
+1 2
+1 2 3
+1 2 3 4
+
+-------
+1 2 3 4
+1 2 3
+1 2
+1
+--------
+1
+2 2 
+3 3 3
+4 4 4 4
+---------
+1 
+3 3
+5 5 5
+7 7 7 7
+9 9 9 9 9
+
+
+
+
+
+
+
 
 
 
@@ -262,5 +350,6 @@ pass
 
 while
   
+
 
 
