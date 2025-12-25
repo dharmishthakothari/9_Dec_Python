@@ -1,0 +1,6 @@
+name=input("Enter name ")
+ans=name.upper()
+print(ans)
+print(f"{name.upper()} - {name.lower()} - {name.capitalize()}")
+print(f"{name.count("Tech")}")
+print(f"{name.count("Tech",10)}")
