@@ -323,6 +323,41 @@ Lab task :
 7 7 7 7
 9 9 9 9 9
 
+25th Dec 
+			10 ----- 5 
+			1000000000000/2  - 2  - 999999989
+
+
+String - collection of characters ,immutable 
+number= "123"
+no=123
+
+---methods , slicing 
+inbuilt methods 
+	- already methods print(),input(),range(), 
+
+upper
+lower
+capitlize
+title
+startswith		-	LabTask
+split
+replace			-	LabTask
+find			-	 LabTask
+trim			-		LabTask
+rtrim			-		LabTask
+ltrim			-		LabTask
+join
+
+
+
+
+collection  - group of objects 
+		list , tuple ,set 
+
+LIST - ordered collection , mutable 
+[] 
+
 
 
 
@@ -350,6 +385,7 @@ Lab task :
 
 while
   
+
 
 
 
