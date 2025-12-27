@@ -349,15 +349,51 @@ rtrim			-		LabTask
 ltrim			-		LabTask
 join
 
+27th Dec
+
+String --- methods , 
+
+indexing 
+for i in name:
+
+T	0
+o	1
+p	2
+s	3
+	4
+T	5
+e	6
+c	7
+h	8
 
 
+Slicing  -- postive / negative 
+ 		- portion
+		- name[start:end:step]
 
-collection  - group of objects 
-		list , tuple ,set 
 
-LIST - ordered collection , mutable 
-[] 
+T	0	-9
+o	1	-8
+p	2	-7
+s	3	-6
+	4	-5
+T	5	-4
+e	6	-3
+c	7	-2
+h	8	-1	
 
+
+lab Task : reverse string with function 
+
+Tops Tech 
+output --- chps TeTo
+
+ch
+last_potion= name[len(name)-2:]
+
+
+Dharmishtha Kothari
+riarmishtha KothaDh
 
 
 
@@ -385,6 +421,7 @@ LIST - ordered collection , mutable
 
 while
   
+
 
 
 
