@@ -395,6 +395,24 @@ last_potion= name[len(name)-2:]
 Dharmishtha Kothari
 riarmishtha KothaDh
 
+30th Dec
+
+Collection/Seque - list ,tuple ,set 
+
+LIST --- collection of elements 
+    --- mutable 
+   --- function 
+   ---[]
+
+Lab Task : 
+check the list co,ntains valid mobile numbers or not
+lst = ['test1234','1234567890','9090909090',4567890,9876543211,'45654','3345testwe']
+isdigit ,isalphanumeric 
+output :1234567890
+		9090909090
+		9876543211
+
+
 
 
 
@@ -421,6 +439,7 @@ riarmishtha KothaDh
 
 while
   
+
 
 
 
