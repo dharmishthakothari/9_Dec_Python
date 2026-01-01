@@ -412,6 +412,25 @@ output :1234567890
 		9090909090
 		9876543211
 
+1st Jan
+
+List methods -- append 
+				extend
+				clear - all elements are deleted black list is thr
+				pop - by default last element remove and return from list
+						you can specify the index also
+				del -- you can delete the object .or perticular element from object 	
+				remove -- remove value from list.....return none
+
+
+Lab task : index 
+			sorted vs sort
+			max , min ,sum
+			
+		tuple  = () , immutable ,perfromance 
+        set 
+		
+
 
 
 
@@ -439,6 +458,7 @@ output :1234567890
 
 while
   
+
 
 
 
