@@ -430,9 +430,17 @@ Lab task : index
 		tuple  = () , immutable ,perfromance 
         set 
 		
+3rd Jan Task :
+1. Create a list of tuples where each tuple contains:
+student name & marks
+	Then print the name of the student who scored the highest marks.
 
+2 . Tuple Comparison
+Create two tuples and check:
+which one is larger
+if they are equal
 
-
+3. Reverse a List (Without reverse())
 
 
 
@@ -458,6 +466,7 @@ Lab task : index
 
 while
   
+
 
 
 
