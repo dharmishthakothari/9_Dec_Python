@@ -443,8 +443,12 @@ if they are equal
 3. Reverse a List (Without reverse())
 
 
+comprehensive ---> consice more readable form 
+[]
 
+set ---> colllection ,, doesn't allow dublicate 
 
+{} -- set ,dictionary 
 
 
 
@@ -466,6 +470,7 @@ if they are equal
 
 while
   
+
 
 
 
