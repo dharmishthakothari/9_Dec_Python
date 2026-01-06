@@ -449,6 +449,43 @@ comprehensive ---> consice more readable form
 set ---> colllection ,, doesn't allow dublicate 
 
 {} -- set ,dictionary 
+6th Jan
+   union
+   intersection
+diffference
+
+Dictionary --> pair key,value
+key must be unique 
+value may be dublicate
+
+Lab task : find key rules to define
+dict1 = {1:"One",2:"Two",3:"Three"}
+
+store data of students like name,email,c_no,add,marks use dictionary 
+email - 
+ami@gmail.com ['Ami', '20', 2345678, 120]
+riya@gmail.com ['Riya', 21, 455756, 150]
+Manish@yahoo.com ['manish', 22, 454354, 200]
+amitlah@gmail.com ['Amitlah', 22, 345345, 110]
+ami@gmail.com
+			ami
+			20
+			2345678
+			120
+riya@gmail.com
+			Riya
+			21
+			455756
+		
+
+
+
+
+
+
+
+
+
 
 
 
@@ -470,6 +507,7 @@ set ---> colllection ,, doesn't allow dublicate
 
 while
   
+
 
 
 
