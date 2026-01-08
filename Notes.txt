@@ -478,6 +478,32 @@ riya@gmail.com
 			455756
 		
 
+8th Jan
+   Menu driven program 
+1. Add Data of Student 
+2. Search Student
+3. delete Student
+4. View all the student
+5. Exit 
+
+1. 
+Please enter Email address : helly@gmail.com
+Please enter name :Helly
+Please enter age : 20
+Please enter C_No : 22222
+Please enter Marks : 120
+
+2. Please enter email to search  : Harmi@gmail.com
+		Student is not available
+
+2 Please enter email to search : Helly@gmail.com
+	Helly
+	20
+	22222
+	120
+
+		
+
 
 
 
@@ -507,6 +533,7 @@ riya@gmail.com
 
 while
   
+
 
 
 
