@@ -502,7 +502,35 @@ Please enter Marks : 120
 	22222
 	120
 
-		
+
+13th Jan 
+	print
+ 	library 
+
+	features 
+		-versitle
+        - easy to learn
+        - no declaration
+		- easy integrate 
+		- garbase collector 
+
+PEP --
+      12Age -- 
+      if
+	
+dictionary ---?methods 	
+	First add information -
+   name age mNo , preferred Dr 
+Dr. Harmi
+Dr. Disha 
+{"Dr. Harmi" : {"10am":0,"11am":0}
+"Dr. Disha":{"2pm:0","3pm":0,"4pm":0}
+}
+
+
+	
+
+
 
 
 
@@ -533,6 +561,7 @@ Please enter Marks : 120
 
 while
   
+
 
 
 
