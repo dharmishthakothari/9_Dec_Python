@@ -527,8 +527,32 @@ Dr. Disha
 "Dr. Disha":{"2pm:0","3pm":0,"4pm":0}
 }
 
+17th Jan
+   
+	LAB TASK : Assessement - Booking Appointment
 
-	
+Function   --- set of instruction to perform specific task 
+               build in  -- print , keys ,values ,items
+	 		   user defined
+
+				function name   --- 
+				parameter    values we are passsing to function 
+				return      function returns 
+
+				declare/impleement
+                calling 
+				
+
+1. create function to greet user 
+def functio_name(paramters):
+ 	block_of_stmt
+
+def greet():
+	print("Have a great day")
+
+greet()
+
+
 
 
 
@@ -561,6 +585,7 @@ Dr. Disha
 
 while
   
+
 
 
 
