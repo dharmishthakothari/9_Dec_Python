@@ -552,9 +552,20 @@ def greet():
 
 greet()
 
+20th Jan
+  -- create function whic return square of number 
+ans=no*no
 
+   -- create function which check the number is even or not (isEven)
 
+find square if number is even 
 
+Menu Driven program with function
+  -- 1. even/odd
+  -- 2. facotrial
+  -- 3. Palidrome
+
+Lab Task : Food Devleiery menu 
 
 
 
@@ -585,6 +596,7 @@ greet()
 
 while
   
+
 
 
 
