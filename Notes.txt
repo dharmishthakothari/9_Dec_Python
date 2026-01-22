@@ -567,6 +567,39 @@ Menu Driven program with function
 
 Lab Task : Food Devleiery menu 
 
+22nd Jan 
+
+Please enter string : Dharmishtha 
+Dharmishtha==ahthsimrahD
+name=input("Enter name ")
+if name==name[::-1]
+	palidrome
+else 
+	not 
+
+D == a
+h == h
+
+Functions 
+   parametes 
+   1. default   
+   2. variable   --- *args 
+   3. keyword arguments 
+
+Lab task : rules 
+
+name - mandantory argument 
+
+studentinfo(name,*args)
+
+lambda -- function with no name 
+			annonymus function 
+			simple 
+
+--> lambda , map , filter , reduce 
+
+
+
 
 
 
@@ -596,6 +629,7 @@ Lab Task : Food Devleiery menu
 
 while
   
+
 
 
 
