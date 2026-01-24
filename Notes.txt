@@ -598,6 +598,42 @@ lambda -- function with no name
 
 --> lambda , map , filter , reduce 
 
+24th Jan
+
+  lambda   -inline function , no complex logic ,anonnymus function (no name)
+			have muliple arguments but single expression
+
+labmbda argument : expresssion 
+
+def add(num1,num2):
+	return num1+num2
+add(20,23)
+
+with lambda 
+sum_num=lambda num1,num2:num1+num2
+sum_num(20,23)
+
+lst = [1,2,3,4]
+find sqare of all numbers and return list of it
+return list of sqare of given list 
+def sq(num):
+	return num*num
+
+sq(2)
+sq(3)
+sq_ans=[]
+for i in lst:
+	sq_ans.append(sq(i))
+
+print(sq_ans)
+[1,4,9,14]
+
+base_numbers=[1,2,3,3]
+pow_numbers=[2,2,3,2]
+ans=[1.4,27,9]
+use map 
+
+
 
 
 
@@ -629,6 +665,7 @@ lambda -- function with no name
 
 while
   
+
 
 
 
