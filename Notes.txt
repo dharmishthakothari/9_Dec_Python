@@ -633,7 +633,11 @@ pow_numbers=[2,2,3,2]
 ans=[1.4,27,9]
 use map 
 
-
+27th Jan
+		--function fere to celcius lst_f=[2,4,5]
+							ans_lst_c= (use map)
+		--filter 
+	
 
 
 
@@ -665,6 +669,7 @@ use map
 
 while
   
+
 
 
 
