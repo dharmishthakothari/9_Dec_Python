@@ -640,7 +640,23 @@ use map
 	
 29th Jan
    
+3RD fEB
 
+ --- Modules ---user deifned
+             ---in build 
+             --third party
+         python file which contains classes , function ,variables 
+
+		import 
+
+FILE Handling 
+
+---file open
+---read   ----- read(), readline(), readlines()
+---write
+--close 
+
+LabTask --readline and readlines
 
 
 
@@ -671,6 +687,7 @@ use map
 
 while
   
+
 
 
 
