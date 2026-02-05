@@ -658,7 +658,14 @@ FILE Handling
 
 LabTask --readline and readlines
 
+5th Feb
 
+--seek , tell 
+
+--- read from one ffile and write to another file (copy file)
+-- write a data into file until user not entered "END"
+
+--- with keyword 
 
 
 
@@ -687,6 +694,7 @@ LabTask --readline and readlines
 
 while
   
+
 
 
 
