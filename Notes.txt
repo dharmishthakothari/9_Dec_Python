@@ -667,9 +667,24 @@ LabTask --readline and readlines
 
 --- with keyword 
 
+7th Feb
+   --- Json file 
+
+{
+"name":"dharmishtha",
+"c_no":98900,
 
 
+Lab Task : To add multiple data (use loop and append)
 
+EXCEPTION ? 
+- stops normal execution flow , giving worng input 
+-- try and except 
+
+- FileNotFound , SytaxError , Arithmatic , KeyError ,ValueError 
+}
+
+LabTask : multiple except
 
 
 
@@ -694,6 +709,7 @@ LabTask --readline and readlines
 
 while
   
+
 
 
 
