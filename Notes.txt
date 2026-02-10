@@ -686,7 +686,13 @@ EXCEPTION ?
 
 LabTask : multiple except
 
-
+--OOPS : 
+class
+object
+inheritance
+encapsulation
+polymorphism
+Abstract
 
 
 
@@ -709,6 +715,7 @@ LabTask : multiple except
 
 while
   
+
 
 
 
