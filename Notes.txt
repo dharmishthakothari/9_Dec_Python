@@ -694,11 +694,35 @@ encapsulation
 polymorphism
 Abstract
 
+12th Feb
 
+OOPS 
+1 . class and object 
+  class - blueprint - structure - not actual entity 
+        - collection of object
+        - data memebers/state and memeber function/behaviuor 
+		Person - name,age,c_number ---- getDetails-display memeber function
 
+ object --- real entity , 
+            type class 
+		    dharmishtha = Person()
+			ami = Person()
+			obj1= Person()
+			object2 = Person()
+	      obj1/dharmishtha  --- data 
+		  obj2/ami --- data 	
+        
 
+init -- to initlize object - it call automatically - when create a object
+cconstructor 
 
+self ---- referse to current object ---referce object i.e in execution 
 
+Book  -- title ,auther , price,no_of_pages 
+	  ---display()
+
+Lab Taks : Book example dynamic --- ask from from user 
+2. no of books ask  user
 
 
 
@@ -715,6 +739,7 @@ Abstract
 
 while
   
+
 
 
 
