@@ -724,6 +724,24 @@ Book  -- title ,auther , price,no_of_pages
 Lab Taks : Book example dynamic --- ask from from user 
 2. no of books ask  user
 
+14th Feb
+
+1. class / object
+2. Encapsulation 
+	wrapping up of data and function together 
+	data hiding 
+ _
+__		:  
+		: public 
+
+3. Inheritance --- reusability  , parent child 
+
+Person - Employee (Single inheirtance)
+Person - Employee  - Manager (Multilevel inheritance)
+Person -Employee  - Hierichical 
+       -Student    
+
+Father - Mother - Child - Multiple Child(Mother,Father)
 
 
 
@@ -739,6 +757,7 @@ Lab Taks : Book example dynamic --- ask from from user
 
 while
   
+
 
 
 
