@@ -743,7 +743,45 @@ Person -Employee  - Hierichical
 
 Father - Mother - Child - Multiple Child(Mother,Father)
 
+19th Feb
 
+--- class / object 
+--- inheritance --- single , muliple, multilevel , hierrchical
+--- encapsulation 
+---list objects 
+--Polymorphisum --- many forms 
+2 types of polymorphisum 
+i) compile time / method overloading & operator overloading
+ii) runtime time / method overiding 
+method overloading means same method name and diffrent agruments 
+display()
+display(name)
+display(name,age)
+directly method overloadin is not supported by python but thru variable arguments it can achived 
+
+operator overloading 
+a=10
+b=20
+
+c=a+b
+c is 30
+p1=Point(12,20)
+p2=Point(2,5)
+
+p3=p1+p2  (to overload operator __add)
+p1.add(p2)
+
+p1--self
+p2--other
+
+
+Method overding -- same method name , same parameter 
+class Student:
+	def display(self):
+		print(name,age)
+class CollegeStudent(Student):
+	def display(self):
+		print(name,age,semster)
 
 
 
@@ -757,6 +795,7 @@ Father - Mother - Child - Multiple Child(Mother,Father)
 
 while
   
+
 
 
 
