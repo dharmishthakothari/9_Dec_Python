@@ -784,8 +784,48 @@ class CollegeStudent(Student):
 		print(name,age,semster)
 
 
+21st Feb
 
+Overriding - same method name and same argument 
+overloading vs overridng 
+class Car
+  def speed(self)
+	pass
+class SportsCar(Car):
+	def speed(self):  // override 
+		print("Fast")
+class Sedan(Car):
+	def speed(self):  // override 
+		print("Normal speed")
 
+obj=Sedan()
+obj.speed() 
+obj1=SportCar()
+obj1.speed()
+
+class/object --- blueprint of an object.Object is real entity.
+inheritance -- property one class can use property of another classs.  (types)
+Encapsulation - data hiding - wraping of data and member function into single unit (private)
+Polymoprphisum - many forms (overloading/overriding)
+Abstraction is hiding details and shwoing only essetial details.
+	abstract vs concrete 
+
+abstract class --- have a one or more abstrarct method 
+					you can not create object of abstract class 
+abstract method --- not implemented method , declaration 
+
+ABC , abstractmethod 
+
+---Genrator / iterator 
+
+Memory managment ---Generator --- 100000
+lst=[1,2,3]
+--- lst_square=[i**2 for i in lst]
+lst_square [1,4,9]
+
+tpl=(1,2,3)
+tpl_square=(i**2 for i in lst)
+print(tpl_square)
 
 
 
@@ -795,6 +835,7 @@ class CollegeStudent(Student):
 
 while
   
+
 
 
 
