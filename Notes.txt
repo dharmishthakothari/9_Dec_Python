@@ -827,14 +827,39 @@ tpl=(1,2,3)
 tpl_square=(i**2 for i in lst)
 print(tpl_square)
 
+24th Feb
+		Generator ---- 
+
+
+Regular Expression 
+
+msg="This is Ahmedabad and Ahmedabad is goood City.Ahmedabad is very famous for khanipini"
+
+find how many times Ahmedabad is written
+
+msg="90909090 is contact number 78654321 is another contact number 9876543211 is another contact number "
+find valid contact numbers 
+
+emails="testsdfsdfdfs.com asdjasdkasd@sdflsdf.com lsdkfjsdlfkkdfsdfdf"
+find valid email address
+
+matching ,searching 
+
+import re
+match
+search
+findall
+span
+group
+meta characters 
+
+---10 digits 
+msg= "This is 9090909090 is my contact and 8989898989 is your contact number"
 
 
 
 
 
-
-while
-  
 
 
 
