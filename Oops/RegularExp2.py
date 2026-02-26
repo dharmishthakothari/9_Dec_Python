@@ -5,3 +5,6 @@ s=re.search(r"\d{10}",msg)
 print(s)
 s1=re.findall(r"\d{10}",msg)
 print(s1)
+
+s2=re.findall(r"\d+",msg)
+print(s2)
